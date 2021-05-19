@@ -13,4 +13,4 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
-console.log(aabc)
+console.log(aaabc)
