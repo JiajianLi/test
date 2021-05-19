@@ -13,4 +13,4 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
-console.log(abc)
+console.log(aabc)
